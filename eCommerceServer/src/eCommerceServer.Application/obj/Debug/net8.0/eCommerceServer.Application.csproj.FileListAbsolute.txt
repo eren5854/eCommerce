@@ -1,0 +1,15 @@
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\bin\Debug\net8.0\eCommerceServer.Application.deps.json
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\bin\Debug\net8.0\eCommerceServer.Application.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\bin\Debug\net8.0\eCommerceServer.Application.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.AssemblyInfoInputs.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.AssemblyInfo.cs
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.csproj.CoreCompileInputs.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\refint\eCommerceServer.Application.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\ref\eCommerceServer.Application.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\bin\Debug\net8.0\eCommerceServer.Domain.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\bin\Debug\net8.0\eCommerceServer.Domain.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.csproj.AssemblyReference.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerc.2EB15729.Up2Date

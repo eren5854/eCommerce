@@ -1,0 +1,12 @@
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\bin\Debug\net8.0\eCommerceServer.Domain.deps.json
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\bin\Debug\net8.0\eCommerceServer.Domain.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\bin\Debug\net8.0\eCommerceServer.Domain.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.csproj.AssemblyReference.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.AssemblyInfoInputs.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.AssemblyInfo.cs
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.csproj.CoreCompileInputs.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\refint\eCommerceServer.Domain.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\ref\eCommerceServer.Domain.dll

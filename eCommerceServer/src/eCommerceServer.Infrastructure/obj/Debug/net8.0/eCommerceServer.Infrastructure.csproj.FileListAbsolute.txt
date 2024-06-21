@@ -1,0 +1,17 @@
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Infrastructure.deps.json
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Infrastructure.runtimeconfig.json
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Infrastructure.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Infrastructure.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.csproj.AssemblyReference.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.AssemblyInfoInputs.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.AssemblyInfo.cs
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.csproj.CoreCompileInputs.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\refint\eCommerceServer.Infrastructure.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.genruntimeconfig.cache
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\ref\eCommerceServer.Infrastructure.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Domain.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Domain.pdb
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerc.773DFE1A.Up2Date
