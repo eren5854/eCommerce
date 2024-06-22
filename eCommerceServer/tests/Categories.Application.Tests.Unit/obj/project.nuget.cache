@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "l2xad1BzLMI=",
+  "dgSpecHash": "sWDfQO6+Lkc=",
   "success": true,
-  "projectFilePath": "E:\\Projeler\\Projects\\eCommerce\\eCommerceServer\\tests\\Categories.Application.Tests.Unit\\Categories.Application.Tests.Unit.csproj",
+  "projectFilePath": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\tests\\Categories.Application.Tests.Unit\\Categories.Application.Tests.Unit.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ihsan\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\coverlet.collector\\6.0.0\\coverlet.collector.6.0.0.nupkg.sha512",
@@ -61,6 +62,7 @@
     "C:\\Users\\ihsan\\.nuget\\packages\\system.buffers\\4.3.0\\system.buffers.4.3.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.collections\\4.3.0\\system.collections.4.3.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.collections.concurrent\\4.3.0\\system.collections.concurrent.4.3.0.nupkg.sha512",
+    "C:\\Users\\ihsan\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.configuration.configurationmanager\\4.4.0\\system.configuration.configurationmanager.4.4.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.console\\4.3.0\\system.console.4.3.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.diagnostics.debug\\4.3.0\\system.diagnostics.debug.4.3.0.nupkg.sha512",

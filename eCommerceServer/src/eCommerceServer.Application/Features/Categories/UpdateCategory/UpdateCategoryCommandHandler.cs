@@ -36,6 +36,7 @@ public sealed class UpdateCategoryCommandHandler(
         mapper.Map(request, category);
         category.UpdatedBy = "Admin";
         category.UpdatedDate = DateTime.Now;
+
         categoryRepository.Update(category);
         await unitOfWork.SaveChangesAsync(cancellationToken);
 

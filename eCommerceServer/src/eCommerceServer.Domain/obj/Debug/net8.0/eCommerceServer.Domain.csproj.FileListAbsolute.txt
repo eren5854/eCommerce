@@ -10,3 +10,4 @@ F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\o
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\refint\eCommerceServer.Domain.dll
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.pdb
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\ref\eCommerceServer.Domain.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Domain\obj\Debug\net8.0\eCommerceServer.Domain.sourcelink.json

@@ -13,3 +13,4 @@ F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Applicat
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\bin\Debug\net8.0\eCommerceServer.Domain.pdb
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.csproj.AssemblyReference.cache
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerc.2EB15729.Up2Date
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Application\obj\Debug\net8.0\eCommerceServer.Application.sourcelink.json

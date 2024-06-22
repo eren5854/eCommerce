@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "3j7PcHNyN8g=",
+  "dgSpecHash": "fDTNBUQV38A=",
   "success": true,
-  "projectFilePath": "E:\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Infrastructure\\eCommerceServer.Infrastructure.csproj",
+  "projectFilePath": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Infrastructure\\eCommerceServer.Infrastructure.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\ihsan\\.nuget\\packages\\ardalis.smartenum\\8.0.0\\ardalis.smartenum.8.0.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
@@ -57,6 +58,7 @@
     "C:\\Users\\ihsan\\.nuget\\packages\\scrutor\\4.2.2\\scrutor.4.2.2.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.codedom\\4.4.0\\system.codedom.4.4.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.collections.immutable\\6.0.0\\system.collections.immutable.6.0.0.nupkg.sha512",
+    "C:\\Users\\ihsan\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.composition\\6.0.0\\system.composition.6.0.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.composition.attributedmodel\\6.0.0\\system.composition.attributedmodel.6.0.0.nupkg.sha512",
     "C:\\Users\\ihsan\\.nuget\\packages\\system.composition.convention\\6.0.0\\system.composition.convention.6.0.0.nupkg.sha512",

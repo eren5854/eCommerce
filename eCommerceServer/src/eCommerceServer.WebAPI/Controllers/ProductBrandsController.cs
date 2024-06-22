@@ -1,5 +1,6 @@
 ﻿using eCommerceServer.Application.Features.ProductBrands.CreateProductBrand;
 using eCommerceServer.Application.Features.ProductBrands.DeleteProductBrandById;
+using eCommerceServer.Application.Features.ProductBrands.GetAllProductBrand;
 using eCommerceServer.Application.Features.ProductBrands.UpdateProductBrand;
 using eCommerceServer.WebAPI.Abstraction;
 using MediatR;
@@ -12,6 +13,13 @@ public class ProductBrandsController : ApiController
     public ProductBrandsController(IMediator mediator) : base(mediator)
     {
         
+    }
+
+    [HttpGet]
+    public async Task<IActionResult> GetAll(CancellationToken cancellationToken)
+    {
+        var result = await _mediator.Send(new GetAllProductBrandQuery(), cancellationToken);
+        return StatusCode(result.StatusCode, result);
     }
 
     [HttpPost]

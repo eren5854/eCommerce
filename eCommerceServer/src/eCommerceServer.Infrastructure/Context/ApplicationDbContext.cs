@@ -1,4 +1,5 @@
 ﻿using eCommerceServer.Domain.Categories;
+using eCommerceServer.Domain.Identity;
 using eCommerceServer.Domain.ProductBrands;
 using eCommerceServer.Domain.Products;
 using GenericRepository;
@@ -7,7 +8,7 @@ using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore;
 
 namespace eCommerceServer.Infrastructure.Context;
-public sealed class ApplicationDbContext : IdentityDbContext<IdentityUser<Guid>, IdentityRole<Guid>, Guid>, IUnitOfWork
+public sealed class ApplicationDbContext : IdentityDbContext<AppUser, IdentityRole<Guid>, Guid>, IUnitOfWork
 {
     public ApplicationDbContext(DbContextOptions options) : base(options)
     {
@@ -23,8 +24,12 @@ public sealed class ApplicationDbContext : IdentityDbContext<IdentityUser<Guid>,
 
         builder.ApplyConfigurationsFromAssembly(typeof(ApplicationDbContext).Assembly);
     }
-    
+
     public DbSet<Category> Categories { get; set; }
     public DbSet<Product> Products { get; set; }
     public DbSet<ProductBrand> ProductBrands { get; set; }
+    //public DbSet<Address> Addresses { get; set; }
+    //public DbSet<UserAddress> UserAddresses { get; set; }
+
+
 }

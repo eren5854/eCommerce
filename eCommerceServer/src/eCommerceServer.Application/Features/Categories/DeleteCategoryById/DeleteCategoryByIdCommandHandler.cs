@@ -16,7 +16,7 @@ internal sealed class DeleteCategoryByIdCommandHandler(ICategoryRepository categ
 
         category.IsDeleted = true;
         categoryRepository.Update(category);
-        await unitOfWork.SaveChangesAsync();
+        await unitOfWork.SaveChangesAsync(cancellationToken);
 
         return Result<string>.Succeed("Category deleted is successful");
     }

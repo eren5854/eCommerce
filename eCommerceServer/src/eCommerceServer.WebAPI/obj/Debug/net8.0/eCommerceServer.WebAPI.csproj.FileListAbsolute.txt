@@ -156,3 +156,5 @@ F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.WebAPI\b
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.WebAPI\bin\Debug\net8.0\Scrutor.dll
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.WebAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.WebAPI\obj\Debug\net8.0\eCommerceServer.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.WebAPI\obj\Debug\net8.0\eCommerceServer.WebAPI.sourcelink.json
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.WebAPI\bin\Debug\net8.0\Ardalis.SmartEnum.dll

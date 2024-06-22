@@ -135,3 +135,5 @@ F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\obj\Debug\net8.0\Categories.Application.Tests.Unit.pdb
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\obj\Debug\net8.0\Categories.Application.Tests.Unit.genruntimeconfig.cache
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\obj\Debug\net8.0\ref\Categories.Application.Tests.Unit.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\bin\Debug\net8.0\Ardalis.SmartEnum.dll
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\obj\Debug\net8.0\Categories.Application.Tests.Unit.sourcelink.json

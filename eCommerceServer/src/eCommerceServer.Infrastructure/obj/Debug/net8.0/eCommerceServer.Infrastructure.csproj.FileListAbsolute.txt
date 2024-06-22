@@ -15,3 +15,4 @@ F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastr
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Domain.dll
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\bin\Debug\net8.0\eCommerceServer.Domain.pdb
 F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerc.773DFE1A.Up2Date
+F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\src\eCommerceServer.Infrastructure\obj\Debug\net8.0\eCommerceServer.Infrastructure.sourcelink.json

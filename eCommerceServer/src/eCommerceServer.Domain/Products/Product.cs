@@ -10,9 +10,9 @@ public sealed class Product : Entity
     public string? Description { get; set; }
     public decimal Price { get; set; }
     public string? PictureUrl { get; set; }
-    public Category? Category { get; set; }
     public Guid CategoryId { get; set; }
-    public ProductBrand? ProductBrand { get; set; }
+    public Category? Category { get; set; }
     public Guid ProductBrandId { get; set; }
+    public ProductBrand? ProductBrand { get; set; }
 
 }

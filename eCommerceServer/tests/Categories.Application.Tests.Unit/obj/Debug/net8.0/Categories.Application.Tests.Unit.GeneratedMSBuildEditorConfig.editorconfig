@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Categories.Application.Tests.Unit
-build_property.ProjectDir = E:\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\
+build_property.ProjectDir = F:\Eren\Projeler\Projects\eCommerce\eCommerceServer\tests\Categories.Application.Tests.Unit\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
