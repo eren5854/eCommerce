@@ -70,6 +70,10 @@
               "target": "Package",
               "version": "[12.3.0, )"
             },
+            "Microsoft.AspNetCore.Identity": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "TS.Result": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -203,6 +207,9 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
+              "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\eCommerceServer.Application.csproj": {
+                "projectPath": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\eCommerceServer.Application.csproj"
+              },
               "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Domain\\eCommerceServer.Domain.csproj": {
                 "projectPath": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Domain\\eCommerceServer.Domain.csproj"
               }
@@ -224,6 +231,10 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Authentication.JwtBearer": {
+              "target": "Package",
+              "version": "[8.0.6, )"
+            },
             "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
               "target": "Package",
               "version": "[8.0.6, )"
@@ -329,6 +340,10 @@
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[6.4.0, )"
+            },
+            "TS.DefaultCorsPolicy": {
+              "target": "Package",
+              "version": "[8.0.0, )"
             }
           },
           "imports": [

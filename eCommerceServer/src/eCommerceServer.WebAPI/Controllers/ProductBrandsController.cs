@@ -4,6 +4,7 @@ using eCommerceServer.Application.Features.ProductBrands.GetAllProductBrand;
 using eCommerceServer.Application.Features.ProductBrands.UpdateProductBrand;
 using eCommerceServer.WebAPI.Abstraction;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace eCommerceServer.WebAPI.Controllers;

@@ -39,7 +39,7 @@ namespace eCommerceServer.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Roles");
+                    b.ToTable("Roles", (string)null);
                 });
 
             modelBuilder.Entity("eCommerceServer.Domain.Categories.Category", b =>
@@ -75,7 +75,7 @@ namespace eCommerceServer.Infrastructure.Migrations
 
                     b.HasIndex("MainCategoryId");
 
-                    b.ToTable("Categories");
+                    b.ToTable("Categories", (string)null);
                 });
 
             modelBuilder.Entity("eCommerceServer.Domain.Identity.Address", b =>
@@ -140,7 +140,7 @@ namespace eCommerceServer.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Address");
+                    b.ToTable("Address", (string)null);
                 });
 
             modelBuilder.Entity("eCommerceServer.Domain.Identity.AppUser", b =>
@@ -162,11 +162,17 @@ namespace eCommerceServer.Infrastructure.Migrations
                     b.Property<DateTime>("CreatedDate")
                         .HasColumnType("datetime2");
 
-                    b.Property<DateTime>("DateOfBirth")
-                        .HasColumnType("datetime2");
+                    b.Property<DateOnly>("DateOfBirth")
+                        .HasColumnType("date");
 
                     b.Property<string>("Email")
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("EmailConfirmCode")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("EmailConfirmCodeSendDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<bool>("EmailConfirmed")
                         .HasColumnType("bit");
@@ -174,6 +180,12 @@ namespace eCommerceServer.Infrastructure.Migrations
                     b.Property<string>("FirstName")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
+
+                    b.Property<int?>("ForgotPasswordCode")
+                        .HasColumnType("int");
+
+                    b.Property<DateTime?>("ForgotPasswordCodeSendDate")
+                        .HasColumnType("datetime2");
 
                     b.Property<int>("Gender")
                         .HasColumnType("int");
@@ -213,6 +225,12 @@ namespace eCommerceServer.Infrastructure.Migrations
                     b.Property<string>("ProfilePicture")
                         .HasColumnType("nvarchar(max)");
 
+                    b.Property<string>("RefreshToken")
+                        .HasColumnType("nvarchar(max)");
+
+                    b.Property<DateTime?>("RefreshTokenExpires")
+                        .HasColumnType("datetime2");
+
                     b.Property<string>("SecurityStamp")
                         .HasColumnType("nvarchar(max)");
 
@@ -233,7 +251,7 @@ namespace eCommerceServer.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("Users");
+                    b.ToTable("Users", (string)null);
                 });
 
             modelBuilder.Entity("eCommerceServer.Domain.Identity.UserAddress", b =>
@@ -279,7 +297,7 @@ namespace eCommerceServer.Infrastructure.Migrations
 
                     b.HasKey("Id");
 
-                    b.ToTable("ProductBrands");
+                    b.ToTable("ProductBrands", (string)null);
                 });
 
             modelBuilder.Entity("eCommerceServer.Domain.Products.Product", b =>
@@ -329,7 +347,7 @@ namespace eCommerceServer.Infrastructure.Migrations
 
                     b.HasIndex("ProductBrandId");
 
-                    b.ToTable("Products");
+                    b.ToTable("Products", (string)null);
                 });
 
             modelBuilder.Entity("eCommerceServer.Domain.Categories.Category", b =>

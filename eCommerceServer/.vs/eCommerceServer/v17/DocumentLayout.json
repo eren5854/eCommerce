@@ -3,24 +3,24 @@
   "WorkspaceRootPath": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9A5DACD7-FF52-4510-8975-8B00DDD9DC2E}|src\\eCommerceServer.Domain\\eCommerceServer.Domain.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A5DACD7-FF52-4510-8975-8B00DDD9DC2E}|src\\eCommerceServer.Domain\\eCommerceServer.Domain.csproj|solutionrelative:src\\ecommerceserver.domain\\products\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.application\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|solutionrelative:src\\ecommerceserver.application\\features\\auth\\login\\logincommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.application\\features\\products\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|solutionrelative:src\\ecommerceserver.application\\features\\products\\updateproduct\\updateproductcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CA5D776-1015-417A-A470-2470A09942A9}|src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7CA5D776-1015-417A-A470-2470A09942A9}|src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.csproj|solutionrelative:src\\ecommerceserver.webapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.application\\mapping\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|solutionrelative:src\\ecommerceserver.application\\mapping\\productmappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D048C4AD-9304-4314-A9C1-09A83A069B11}|src\\eCommerceServer.Infrastructure\\eCommerceServer.Infrastructure.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D048C4AD-9304-4314-A9C1-09A83A069B11}|src\\eCommerceServer.Infrastructure\\eCommerceServer.Infrastructure.csproj|solutionrelative:src\\ecommerceserver.infrastructure\\services\\jwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.application\\features\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|solutionrelative:src\\ecommerceserver.application\\features\\products\\updateproduct\\updateproductcommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{158FE477-ADC8-422C-A7C8-25B1FAD7DA19}|src\\eCommerceServer.Application\\eCommerceServer.Application.csproj|solutionrelative:src\\ecommerceserver.application\\services\\ijwtprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7CA5D776-1015-417A-A470-2470A09942A9}|src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7CA5D776-1015-417A-A470-2470A09942A9}|src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.csproj|solutionrelative:src\\ecommerceserver.webapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7CA5D776-1015-417A-A470-2470A09942A9}|src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.csproj|f:\\eren\\projeler\\projects\\ecommerce\\ecommerceserver\\src\\ecommerceserver.webapi\\ecommerceserver.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{7CA5D776-1015-417A-A470-2470A09942A9}|src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.csproj|solutionrelative:src\\ecommerceserver.webapi\\ecommerceserver.webapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,67 +38,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductMappingProfile.cs",
-              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Mapping\\ProductMappingProfile.cs",
-              "RelativeDocumentMoniker": "src\\eCommerceServer.Application\\Mapping\\ProductMappingProfile.cs",
-              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Mapping\\ProductMappingProfile.cs",
-              "RelativeToolTip": "src\\eCommerceServer.Application\\Mapping\\ProductMappingProfile.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:36:26.434Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "UpdateProductCommand.cs",
-              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommand.cs",
-              "RelativeDocumentMoniker": "src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommand.cs",
-              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommand.cs",
-              "RelativeToolTip": "src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommand.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "src\\eCommerceServer.WebAPI\\Controllers\\AuthController.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.WebAPI\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "src\\eCommerceServer.WebAPI\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAYwBwAAAAFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:31:46.784Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UpdateProductCommandHandler.cs",
-              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
-              "RelativeDocumentMoniker": "src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
-              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
-              "RelativeToolTip": "src\\eCommerceServer.Application\\Features\\Products\\UpdateProduct\\UpdateProductCommandHandler.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:31:27.472Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "ProductsController.cs",
-              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.WebAPI\\Controllers\\ProductsController.cs",
-              "RelativeDocumentMoniker": "src\\eCommerceServer.WebAPI\\Controllers\\ProductsController.cs",
-              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.WebAPI\\Controllers\\ProductsController.cs",
-              "RelativeToolTip": "src\\eCommerceServer.WebAPI\\Controllers\\ProductsController.cs",
-              "ViewState": "AQIAAAYAAAAAAAAAAAAAAA0AAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-22T00:11:11.356Z",
+              "WhenOpened": "2024-06-24T23:04:02.477Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Product.cs",
-              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Domain\\Products\\Product.cs",
-              "RelativeDocumentMoniker": "src\\eCommerceServer.Domain\\Products\\Product.cs",
-              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Domain\\Products\\Product.cs",
-              "RelativeToolTip": "src\\eCommerceServer.Domain\\Products\\Product.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAArAAAA",
+              "Title": "LoginCommandHandler.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeDocumentMoniker": "src\\eCommerceServer.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "RelativeToolTip": "src\\eCommerceServer.Application\\Features\\Auth\\Login\\LoginCommandHandler.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAADwvwwAAAABAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-21T23:11:19.433Z",
+              "WhenOpened": "2024-06-24T22:48:19.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtProvider.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Services\\IJwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\eCommerceServer.Application\\Services\\IJwtProvider.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Application\\Services\\IJwtProvider.cs",
+              "RelativeToolTip": "src\\eCommerceServer.Application\\Services\\IJwtProvider.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T22:47:46.123Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "eCommerceServer.WebAPI.http",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.http",
+              "RelativeDocumentMoniker": "src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.http",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.http",
+              "RelativeToolTip": "src\\eCommerceServer.WebAPI\\eCommerceServer.WebAPI.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-06-24T22:05:12.347Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "JwtProvider.cs",
+              "DocumentMoniker": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeDocumentMoniker": "src\\eCommerceServer.Infrastructure\\Services\\JwtProvider.cs",
+              "ToolTip": "F:\\Eren\\Projeler\\Projects\\eCommerce\\eCommerceServer\\src\\eCommerceServer.Infrastructure\\Services\\JwtProvider.cs",
+              "RelativeToolTip": "src\\eCommerceServer.Infrastructure\\Services\\JwtProvider.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACwAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T21:22:51.225Z",
               "EditorCaption": ""
             }
           ]

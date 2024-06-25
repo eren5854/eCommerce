@@ -4,10 +4,12 @@ using eCommerceServer.Application.Features.Categories.GetAllCategory;
 using eCommerceServer.Application.Features.Categories.UpdateCategory;
 using eCommerceServer.WebAPI.Abstraction;
 using MediatR;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace eCommerceServer.WebAPI.Controllers;
 
+[AllowAnonymous]
 public class CategoriesController : ApiController
 {
     public CategoriesController(IMediator mediator) : base(mediator)
